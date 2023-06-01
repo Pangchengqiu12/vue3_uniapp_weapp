@@ -6,6 +6,10 @@
 // 	/* Project id 2878519 */
 // 	// src: url('/common/font/customicons.ttf') format('truetype');
 // }
+page {
+	width: 100%;
+	height: 100%;
+}
 ::-webkit-scrollbar {
 	//去除滚动条
 		display: none;
